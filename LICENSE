@@ -1,0 +1,24 @@
+Copyright (c) hexnt. All rights reserved.
+
+END-USER LICENSE AGREEMENT (EULA)
+
+This End-User License Agreement ("License") is a legal agreement between you and the Author of this software ("Software"). By downloading, accessing, or using the Software, you agree to be bound by the terms of this License.
+
+1. GRANT OF LICENSE
+The Author grants you a non-exclusive, non-transferable right to use the Software strictly for personal and commercial purposes, provided that you comply with all restrictions set forth in this License.
+
+2. RESTRICTIONS
+Unless you have obtained prior explicit written permission from the Author, you are strictly prohibited from:
+a) Redistributing, re-uploading, hosting, sharing, or transmitting the Software, or any of its files, on any other website, platform, or directly to any third party.
+b) Modifying, altering, or changing the source code in any way.
+c) Creating derivative works based on the Software or its code.
+d) Bundling, packaging, integrating, or incorporating the Software (in whole or in part) into any other software, project, pipeline, or product, particularly those that are monetized or sold.
+
+3. PLATFORM FEATURES AND FORKING
+While the hosting platform (e.g., GitHub) may provide technical capabilities such as "Forking," this License explicitly prohibits you from using such features to bypass the restrictions outlined in Section 2. You may not publish modified versions of the Software, nor distribute changes via forks. If a fork is created automatically due to platform mechanics, it must remain strictly private, unmodified, and cannot be distributed.
+
+4. OWNERSHIP
+The Author retains all rights, title, and interest in and to the Software, including all copyrights, patents, trade secrets, trademarks, and other intellectual property rights. This License does not grant you any ownership rights.
+
+5. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
